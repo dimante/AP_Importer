@@ -1,0 +1,65 @@
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\bin\Debug\TestScoreImport.exe.config
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\bin\Debug\TestScoreImport.exe
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\bin\Debug\TestScoreImport.pdb
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\bin\Debug\TestScoreImport.xml
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\obj\Debug\TestScoreImport.Import.resources
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\obj\Debug\TestScoreImport.Resources.resources
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\obj\Debug\TestScoreImport.exe
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\obj\Debug\TestScoreImport.xml
+C:\Users\jgates.LAKEPARK\Desktop\TestScoreImport\obj\Debug\TestScoreImport.pdb
+C:\Users\jgates\Desktop\TestScoreImportLP\bin\Debug\TestScoreImport.exe.config
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\TestScoreImport.exe
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\TestScoreImport.xml
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\TestScoreImport.pdb
+C:\Users\jgates\Desktop\TestScoreImportLP\bin\Debug\TestScoreImport.exe.manifest
+C:\Users\jgates\Desktop\TestScoreImportLP\bin\Debug\TestScoreImport.application
+C:\Users\jgates\Desktop\TestScoreImportLP\bin\Debug\TestScoreImport.exe
+C:\Users\jgates\Desktop\TestScoreImportLP\bin\Debug\TestScoreImport.pdb
+C:\Users\jgates\Desktop\TestScoreImportLP\bin\Debug\TestScoreImport.xml
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\TestScoreImport.Import.resources
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\TestScoreImport.Resources.resources
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\TestScoreImport.TrustInfo.xml
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\TestScoreImport.exe.manifest
+C:\Users\jgates\Desktop\TestScoreImportLP\obj\Debug\TestScoreImport.application
+C:\Users\jgates\Desktop\TestScoreImportLP\bin\Debug\Init.ini
+C:\Users\jgates\Desktop\TestScoreImport\bin\Debug\TestScoreImport.exe.config
+C:\Users\jgates\Desktop\TestScoreImport\bin\Debug\TestScoreImport.exe
+C:\Users\jgates\Desktop\TestScoreImport\bin\Debug\TestScoreImport.pdb
+C:\Users\jgates\Desktop\TestScoreImport\bin\Debug\TestScoreImport.xml
+C:\Users\jgates\Desktop\TestScoreImport\obj\Debug\TestScoreImport.Import.resources
+C:\Users\jgates\Desktop\TestScoreImport\obj\Debug\TestScoreImport.Resources.resources
+C:\Users\jgates\Desktop\TestScoreImport\obj\Debug\TestImport.vbproj.GenerateResource.Cache
+C:\Users\jgates\Desktop\TestScoreImport\obj\Debug\TestScoreImport.exe
+C:\Users\jgates\Desktop\TestScoreImport\obj\Debug\TestScoreImport.xml
+C:\Users\jgates\Desktop\TestScoreImport\obj\Debug\TestScoreImport.pdb
+C:\Users\jgates\Desktop\TestScoreImport\bin\Debug\updater.xml
+C:\Users\jgates\Desktop\TestScoreImport\bin\Debug\Automatic Updater.exe
+C:\Users\jgates\Desktop\TestScoreImport\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\jgates\Desktop\TestScoreImport\bin\Debug\WPFGrowlNotification.dll
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\TestScoreImport.exe.config
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.exe
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.xml
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.pdb
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\Automatic Updater.exe
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\updater.xml
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\TestScoreImport.exe.manifest
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\TestScoreImport.application
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\TestScoreImport.exe
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\TestScoreImport.pdb
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\TestScoreImport.xml
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\bin\Debug\WPFGrowlNotification.dll
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.Import.resources
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.Resources.resources
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestImport.vbproj.GenerateResource.Cache
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.TrustInfo.xml
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.exe.manifest
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.application
+C:\Users\jgates\Desktop\TestScoreImport\obj\Debug\TestScoreImport.Parameters.resources
+D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.Parameters.resources
