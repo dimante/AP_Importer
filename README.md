@@ -7,4 +7,4 @@ What you need<br />
 2 - An eSchoolPLUS database<br />
 3 - College Board AP test score files you need imported to the database<br />
 <br />
-Please read the use instructions provided.
+Please read the use instructions provided to use the software.
