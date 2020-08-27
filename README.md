@@ -1,5 +1,5 @@
 # AP_Importer
-AP Test Score Importer for eSchoolPLUS self hosted instances
+AP Test Score Importer for eSchoolPLUS self hosted instances. Since there is no way currently in eSchoolPLUS to upload AP test score files I created this application to do it.   
 
 ---
 What you need<br />
