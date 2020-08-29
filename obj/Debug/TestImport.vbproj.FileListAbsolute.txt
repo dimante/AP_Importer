@@ -63,3 +63,16 @@ D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScor
 D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.application
 C:\Users\jgates\Desktop\TestScoreImport\obj\Debug\TestScoreImport.Parameters.resources
 D:\LPHSArena\Arena\CodeBase\Test Score Import\TestScoreImport\obj\Debug\TestScoreImport.Parameters.resources
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\bin\Debug\TestScoreImport.exe.config
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\bin\Debug\TestScoreImport.exe
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\bin\Debug\TestScoreImport.pdb
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\bin\Debug\TestScoreImport.xml
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\obj\Debug\TestImport.vbprojAssemblyReference.cache
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\obj\Debug\TestScoreImport.Import.resources
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\obj\Debug\TestScoreImport.Resources.resources
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\obj\Debug\TestScoreImport.Parameters.resources
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\obj\Debug\TestImport.vbproj.GenerateResource.cache
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\obj\Debug\TestImport.vbproj.CoreCompileInputs.cache
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\obj\Debug\TestScoreImport.exe
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\obj\Debug\TestScoreImport.xml
+D:\(A1)-JMGArena\JMGArena\Test Score Import\TestScoreImport - Github\AP_Importer\obj\Debug\TestScoreImport.pdb

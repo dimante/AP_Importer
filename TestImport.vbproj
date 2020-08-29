@@ -163,7 +163,6 @@
   <ItemGroup>
     <Content Include="ClpBd.png" />
     <Content Include="TILogo1.ico" />
-    <Content Include="updater.xml" />
     <None Include="app.config" />
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
