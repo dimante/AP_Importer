@@ -162,8 +162,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="ClpBd.png" />
+    <Content Include="ClpBdSm.png" />
+    <Content Include="cone.png" />
+    <Content Include="TestScoreFormat.jpg" />
     <Content Include="TILogo1.ico" />
     <None Include="app.config" />
+    <None Include="LICENSE" />
     <None Include="My Project\app.manifest" />
     <None Include="My Project\Application.myapp">
       <Generator>MyApplicationCodeGenerator</Generator>
@@ -174,6 +178,8 @@
       <CustomToolNamespace>My</CustomToolNamespace>
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
+    <None Include="README.md" />
+    <None Include="TestScoreFormat.psd" />
   </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
