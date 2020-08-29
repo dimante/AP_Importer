@@ -1,4 +1,4 @@
-# AP_Importer
+
 AP Test Score Importer for eSchoolPLUS self hosted instances. Since there is no way currently in eSchoolPLUS to upload AP test score files I created this application to do it.   
 <img src="https://www.jmgservices.org/importer1.png">
 ---
